@@ -1180,4 +1180,1764 @@
 			</entry>
 		</issue>
 	</volume>
+	<volume vnum="005">
+		<issue inum="01" month="चैत्रमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०००१-०००१</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विज्ञापना</title>
+				<feature></feature>
+				<page>०००२-०००२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पातिव्रत्यम्</title>
+				<feature></feature>
+				<page>०००२-०००८</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उपदेशसूक्तिमाला</title>
+				<feature></feature>
+				<page>०००९-००१२</page>
+				<allauthors>
+					<author type="" sal="">कडयं. विद्वान्. नाणुशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यभाषाचरितम्</title>
+				<feature></feature>
+				<page>००१३-००१६</page>
+				<allauthors>
+					<author type="" sal="">म. वे. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="वैशाखमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००१७-००१७</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पातिव्रत्यम्</title>
+				<feature></feature>
+				<page>००१८-००२२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अलंधनः चित्रप्रदीपश्च</title>
+				<feature></feature>
+				<page>००२२-००२६</page>
+				<allauthors>
+					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यभाषाचरितम्</title>
+				<feature></feature>
+				<page>००२६-००३२</page>
+				<allauthors>
+					<author type="" sal="">म. वे. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="ज्येष्ठमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००३३-००३३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाणिग्रहणम्</title>
+				<feature></feature>
+				<page>००३४-००४०</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अलंधनः चित्रप्रदीपश्च</title>
+				<feature></feature>
+				<page>००४१-००४५</page>
+				<allauthors>
+					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यभाषाचरितम्</title>
+				<feature></feature>
+				<page>००४५-००४८</page>
+				<allauthors>
+					<author type="" sal="">म. वे. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="अषाढमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००४९-००४९</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाणिग्रहणम्</title>
+				<feature></feature>
+				<page>००५०-००५३</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अलंधनः चित्रप्रदीपश्च</title>
+				<feature></feature>
+				<page>००५४-००५६</page>
+				<allauthors>
+					<author type="" sal="">अ. कुप्पुस्वाम्यार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>परोपकारः</title>
+				<feature></feature>
+				<page>००५७-००६४</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवत्सचिह्नमिश्रः</title>
+				<feature></feature>
+				<page>००६५-००७२</page>
+				<allauthors>
+					<author type="" sal="">श्रीशैलताताचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="श्रावणमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००७३-००७३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाणिग्रहणम्</title>
+				<feature></feature>
+				<page>००७४-००७७</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्त्रीविद्याभ्यासः</title>
+				<feature></feature>
+				<page>००७८-००८१</page>
+				<allauthors>
+					<author type="" sal="">पुन्नश्शेरि, नम्बि - नीलकण्ठशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>परोपकारः</title>
+				<feature></feature>
+				<page>००८२-००८८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवत्सचिह्नमिश्रः</title>
+				<feature></feature>
+				<page>००८९-००९५</page>
+				<allauthors>
+					<author type="" sal="">श्रीशैलताताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अतिमानुषस्तवः</title>
+				<feature></feature>
+				<page>००९६-००९६</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="भाद्रपदमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००९७-००९७</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाणिग्रहणम्</title>
+				<feature></feature>
+				<page>००९८-०१०३</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्थावरतत्त्वदर्शनम्</title>
+				<feature></feature>
+				<page>०१०३-०१०४</page>
+				<allauthors>
+					<author type="" sal="">वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्त्रीविद्याभ्यासः</title>
+				<feature></feature>
+				<page>०१०५-०१०८</page>
+				<allauthors>
+					<author type="" sal="">पुन्नश्शेरि, नम्बि - नीलकण्ठशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>परोपकारः</title>
+				<feature></feature>
+				<page>०१०९-०११२</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवत्सचिह्नमिश्रः</title>
+				<feature></feature>
+				<page>०११३-०१२०</page>
+				<allauthors>
+					<author type="" sal="">श्रीशैलताताचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="आश्वनमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१२१-०१२१</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०१२२-०१२९</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीवत्सचिह्नमिश्रः</title>
+				<feature></feature>
+				<page>०१३०-०१३२</page>
+				<allauthors>
+					<author type="" sal="">श्रीशैलताताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोमलाधण्डकम्</title>
+				<feature></feature>
+				<page>०१३२-०१३५</page>
+				<allauthors>
+					<author type="" sal="">वेलामूर्. श्रीवरदविष्ण्वार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>परोपकारः</title>
+				<feature></feature>
+				<page>०१३६-०१४१</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्त्रीविद्याभ्यासः</title>
+				<feature></feature>
+				<page>०१४१-०१४४</page>
+				<allauthors>
+					<author type="" sal="">पुन्नश्शेरि, नम्बि - नीलकण्ठशर्मा</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="कार्तिकमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१४५-०१४५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>देवालयः</title>
+				<feature></feature>
+				<page>०१४६-०१५२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०१५३-०१६०</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>परोपकारः</title>
+				<feature></feature>
+				<page>०१६१-०१६६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. यम्. डि. सुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यभाषाचरितम्</title>
+				<feature></feature>
+				<page>०१६६-०१६८</page>
+				<allauthors>
+					<author type="" sal="">म. वे. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="मार्गशीर्षमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१६९-०१६९</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मलयपरिसरारण्यरामणीयकम्</title>
+				<feature></feature>
+				<page>०१७०-०१७१</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>देवलयः</title>
+				<feature></feature>
+				<page>०१७१-०१७४</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पट्टाभिषेकमहोत्सवः</title>
+				<feature></feature>
+				<page>०१७४-०१७६</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०१७७-०१८४</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अशोकः</title>
+				<feature></feature>
+				<page>०१८५-०१९२</page>
+				<allauthors>
+					<author type="" sal="">श्रीहरिहरसुरूपशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदः</title>
+				<feature></feature>
+				<page>०१९२-०१९२</page>
+				<allauthors>
+					<author type="" sal="">टि. वेणुगोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="पौषमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१९३-०१९३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनन्तशयनसंस्कृतग्रन्थावलिः</title>
+				<feature>पुस्तकसमालोचना</feature>
+				<page>०१९४-०१९५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सौभरिचरित्रम्</title>
+				<feature></feature>
+				<page>०१९६-०२००</page>
+				<allauthors>
+					<author type="" sal="">के. रङ्गसामिताताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०२०१-०२०८</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अशोकः</title>
+				<feature></feature>
+				<page>०२०९-०२१४</page>
+				<allauthors>
+					<author type="" sal="">श्रीहरिहरसुरूपशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदः</title>
+				<feature></feature>
+				<page>०२१४-०२१६</page>
+				<allauthors>
+					<author type="" sal="">टि. वेणुगोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="माघमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२१७-०२१७</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वकालीनः स्त्रीविद्याभ्यासः</title>
+				<feature></feature>
+				<page>०२१८-०२२२</page>
+				<allauthors>
+					<author type="" sal="">श्रीमती. गोदावरी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दैवम्</title>
+				<feature>पुस्तकसमालोचना</feature>
+				<page>०२२३-०२२४</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०२२५-०२३२</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासस्य ग्रन्थाः</title>
+				<feature></feature>
+				<page>०२३३-०२४०</page>
+				<allauthors>
+					<author type="" sal="">रा. चक्रवर्ति. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="फाल्गुनमासः" year="परीधाविवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२४१-०२४१</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वत्सरान्ते विज्ञप्तिः</title>
+				<feature></feature>
+				<page>०२४२-०२४२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनन्तशयनराजकीयसंस्कृतग्रन्थावलिः</title>
+				<feature>पुस्तकसमालोचना</feature>
+				<page>०२४३-०२५६</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०२५७-०२६४</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="Supplement" month="" year="" info="">
+			<entry>
+				<title>भाट्टसारः</title>
+				<feature></feature>
+				<page>००९७-०१११</page>
+				<allauthors>
+					<author type="" sal="">महामहोपाध्याय तिरुप्पक्कुलि स्वामी</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="Supplement-I" month="" year="" info="">
+			<entry>
+				<title>श्रीकृष्णाभ्युदयकाव्यम्</title>
+				<feature></feature>
+				<page>००९७-०१९२</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="006">
+		<issue inum="01" month="चैत्रमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०००१-०००१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदानामनन्त्यम्</title>
+				<feature></feature>
+				<page>०००२-०००२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>०००३-००१२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासश्च भवभूतिश्च</title>
+				<feature></feature>
+				<page>००१२-००१६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>००१७-००२४</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="वैशाखमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००२५-००२५</page>
+				<allauthors>
+					<author type="" sal="">मङ्खकस्य</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कवषोपख्यानम्</title>
+				<feature></feature>
+				<page>००२६-००२६</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनन्तशयनराजकीयसंस्कृतग्रन्थावलिः</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>००२७-००३३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासश्च भवभूतिश्च</title>
+				<feature></feature>
+				<page>००३४-००३८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दाम्पत्ये कालिदासाशयः</title>
+				<feature></feature>
+				<page>००३८-००४०</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च वि. कृष्णमाचार्य</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>००४१-००४८</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="ज्येष्ठमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००४९-००४९</page>
+				<allauthors>
+					<author type="" sal="">मङ्खकस्य</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाभानेदिष्ठः</title>
+				<feature></feature>
+				<page>००५०-००५२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>००५२-००५६</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दाम्पत्ये कालिदासाशयः</title>
+				<feature></feature>
+				<page>००५७-००६०</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च वि. कृष्णमाचार्य</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भासकविः</title>
+				<feature></feature>
+				<page>००६०-००६४</page>
+				<allauthors>
+					<author type="" sal="">पण्डितरमणाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>००६४-००६७</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आर्यभाषाचरितम्</title>
+				<feature></feature>
+				<page>००६७-००७२</page>
+				<allauthors>
+					<author type="" sal="">पण्डित-रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="" year="" info="">
+			<entry>
+				<title>आषाढमासः</title>
+				<feature>सुभाषितानि</feature>
+				<page>००७३-००७३</page>
+				<allauthors>
+					<author type="" sal="">हेब्बाक रामशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नचिकेतोपाख्यानम्</title>
+				<feature></feature>
+				<page>००७४-००७५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अलिविलासिसल्लापाभिनन्दनलेखः</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>००७६-००७७</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेदः</title>
+				<feature></feature>
+				<page>००७७-००८२</page>
+				<allauthors>
+					<author type="" sal="">टि. वेणुगोपालाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकवयश्च बिरुदानि च</title>
+				<feature></feature>
+				<page>००८२-००९१</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>माणवकानुवाकः</title>
+				<feature></feature>
+				<page>००९१-००९६</page>
+				<allauthors>
+					<author type="" sal="">कडयम्-विद्वान्-नाणुशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="श्रावणमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००९७-००९७</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>००९८-०१०२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अद्योगः ।। (Industry)</title>
+				<feature></feature>
+				<page>०१०२-०१११</page>
+				<allauthors>
+					<author type="" sal="">यम्. टि. नरसिंह अय्यङ्गार्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>माणवकानुवाकः</title>
+				<feature></feature>
+				<page>०१११-०१२०</page>
+				<allauthors>
+					<author type="" sal="">कडयम्-विद्वान्-नाणुशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="भाद्रपदमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१२१-०१२१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>०१२२-०१२८</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०१२९-०१३६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>माणवकानुवाकः</title>
+				<feature></feature>
+				<page>०१३७-०१४४</page>
+				<allauthors>
+					<author type="" sal="">कडयम्-विद्वान्-नाणुशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="आश्विनमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१४५-०१४५</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>०१४६-०१५०</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>माणवकानुवाकः</title>
+				<feature></feature>
+				<page>०१५१-०१५२</page>
+				<allauthors>
+					<author type="" sal="">कडयम्-विद्वान्-नाणुशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०१५३-०१६०</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०१६१-०१६८</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="कार्तिकिकमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१६९-०१६९</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कै. अप्पाशास्त्रीराशीवडेकरमुद्दिश्य विलापः</title>
+				<feature></feature>
+				<page>०१७०-०१७०</page>
+				<allauthors>
+					<author type="" sal="">भट्टकेशवशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हरिश्चन्द्रोपाख्यानम्</title>
+				<feature></feature>
+				<page>०१७१-०१७५</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वाल्मीकिश्च कालिदासश्च</title>
+				<feature></feature>
+				<page>०१७५-०१७८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आधुनिकी संस्कृतस्थितिः</title>
+				<feature></feature>
+				<page>०१७८-०१८४</page>
+				<allauthors>
+					<author type="" sal="">महोपाध्याय, मु, नारायणशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०१८५-०१९२</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="चापमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१९३-०१९३</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हरिश्चन्द्रोपाख्यानम्</title>
+				<feature></feature>
+				<page>०१९४-०१९६</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०१९६-०२००</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आधुनिकी संस्कृतस्थितिः</title>
+				<feature></feature>
+				<page>०२०१-०२०८</page>
+				<allauthors>
+					<author type="" sal="">महोपाध्याय, मु, नारायणशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०२०९-०२१६</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="पौषमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२१७-०२१७</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हरिश्चन्द्रोपाख्यानम्</title>
+				<feature></feature>
+				<page>०२१८-०२२०</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाण्यां जैनग्रन्थरत्नानि</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>०२२०-०२२३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकाव्यानि अङ्काश्च</title>
+				<feature></feature>
+				<page>०२२३-०२२४</page>
+				<allauthors>
+					<author type="" sal="">पण्डित रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाकवयश्च बिरुदानि च</title>
+				<feature></feature>
+				<page>०२२४-०२२८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आधुनिकी संस्कृतस्थितिः</title>
+				<feature></feature>
+				<page>०२२८-०२३०</page>
+				<allauthors>
+					<author type="" sal="">महोपाध्याय, मु, नारायणशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शंकराभ्युदयः</title>
+				<feature></feature>
+				<page>०२३१-०२४०</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="माघमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२४१-०२४१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>०२४२-०२४८</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ग्रन्थानुवाचनम्</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>०२४९-०२५२</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०२५२-०२५६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गसनिमुहम्मदचरितम्</title>
+				<feature></feature>
+				<page>०२५७-०२६४</page>
+				<allauthors>
+					<author type="" sal="">पि. जि. रामार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="फाल्गुनमासः" year="प्रमादीचवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२६५-०२६५</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी</title>
+				<feature></feature>
+				<page>०२६६-०२६९</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मल्लिनाथश्च अपव्याख्यानं च</title>
+				<feature></feature>
+				<page>०२६९-०२७३</page>
+				<allauthors>
+					<author type="" sal="">पण्डित रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विद्यावाचस्पतिर्विद्यालंकारो महामहोपादेशकः श्रीमदप्पाशास्त्री राशिवडेकरः</title>
+				<feature></feature>
+				<page>०२७४-०२८०</page>
+				<allauthors>
+					<author type="" sal="">श्रीयुत. मुकुन्दशास्त्री मिराज्कर्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०२८१-०२८८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विभीषणविलापः</title>
+				<feature></feature>
+				<page>०२८९-०२९०</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गसनिमहम्मदचरितम्</title>
+				<feature></feature>
+				<page>०२९१-०२९४</page>
+				<allauthors>
+					<author type="" sal="">पि. जि. रामार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीकृष्णाभ्युदयकाव्यम्</title>
+				<feature></feature>
+				<page>०१९३-०२१५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="Supplement" month="" year="" info="">
+			<entry>
+				<title>श्रीकृष्णाभ्युदयकाव्यम्</title>
+				<feature></feature>
+				<page>०००१-००३०</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="Supplement-I" month="" year="" info="">
+			<entry>
+				<title>कविकाव्यादिप्रशंसनम्</title>
+				<feature></feature>
+				<page>०००१-००१५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अथ काव्योपक्रमविचारः</title>
+				<feature></feature>
+				<page>००१५-००२२</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>काव्यादानप्रशंसा</title>
+				<feature></feature>
+				<page>००२२-००२८</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्राकृतादिभाषाप्रशंसा</title>
+				<feature></feature>
+				<page>००२९-००३४</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="007">
+		<issue inum="01" month="चैत्रमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०००१-०००१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विज्ञप्तिः</title>
+				<feature></feature>
+				<page>०००२-०००२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>०००२-०००५</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विद्यावाचस्पतिर्विद्यालंकारो महामहोपदेशकः श्रीमदप्पाशास्त्री राशिवडेकरः</title>
+				<feature></feature>
+				<page>०००५-०००७</page>
+				<allauthors>
+					<author type="" sal="">श्रीयुतमुकुन्दशास्त्री मिराज्कर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेमभूपालचरितम्</title>
+				<feature></feature>
+				<page>०००७-००१३</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुद्राराक्षसकथासंग्रहः</title>
+				<feature></feature>
+				<page>००१३-००२४</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="02" month="वैशाखमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००२५-००२५</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>००२६-००२९</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मद्रपुरराजकीय प्राच्यलिखितकोशसंग्रहालयः</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>००२९-००३३</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासः</title>
+				<feature></feature>
+				<page>००३३-००४८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="03" month="ज्येष्ठमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००४९-००४९</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>००५०-००५४</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कालिदासः</title>
+				<feature></feature>
+				<page>००५४-००५५</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रमणाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजभक्तिः</title>
+				<feature></feature>
+				<page>००५५-००६१</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. श्रीनिवासाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सीमन्तिनीचरितम्</title>
+				<feature></feature>
+				<page>००६१-००६५</page>
+				<allauthors>
+					<author type="" sal="">पण्डित नारायणाशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>००६५-००६८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वैजयन्ती</title>
+				<feature></feature>
+				<page>००६८-००७२</page>
+				<allauthors>
+					<author type="" sal="">पण्डित केशवरामशर्मा गलगलि</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="04" month="आषाढमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००७३-००७३</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>००७४-००७८</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महेन्द्रमङ्गले श्रीशङ्कराचार्याः</title>
+				<feature></feature>
+				<page>००७९-००८९</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. प. पञ्चापगेशशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>००८९-००९३</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सीमन्तिनीचरितम्</title>
+				<feature></feature>
+				<page>००९४-००९६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित नारायणाशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="05" month="श्रावणमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>००९७-००९७</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>००९८-०१००</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सीमन्तिनीचरितम्</title>
+				<feature></feature>
+				<page>०१००-०१०३</page>
+				<allauthors>
+					<author type="" sal="">पण्डित नारायणाशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पञ्च महाकाव्यानि तद्व्याख्याश्च</title>
+				<feature></feature>
+				<page>०१०४-०१११</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रियंवदा</title>
+				<feature></feature>
+				<page>०११२-०११५</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. केशवरामशर्मा, गलगलि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणीमधिकृत्य कश्चन उपन्यासः</title>
+				<feature></feature>
+				<page>०११५-०११८</page>
+				<allauthors>
+					<author type="" sal="">वेङ्कटाचलपतिशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>०११९-०१२०</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="06" month="भाद्रपदमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१२१-०१२१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजभक्तिः</title>
+				<feature></feature>
+				<page>०१२२-०१२९</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. प. पञ्चापगेशशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>खना</title>
+				<feature></feature>
+				<page>०१२९-०१३२</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>०१३२-०१३७</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पाणिनीयव्याकरणम्</title>
+				<feature></feature>
+				<page>०१३७-०१४४</page>
+				<allauthors>
+					<author type="" sal="">श्रीपादनरसिह्मशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="07" month="आश्विनमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१४५-०१४५</page>
+				<allauthors>
+					<author type="" sal="">श्रीवेदान्तदेशिकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>व्याकरणग्रन्थरत्नावली</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>०१४६-०१५०</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुमारसंभवः</title>
+				<feature></feature>
+				<page>०१५१-०१६२</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>०१६२-०१६५</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जैनमततत्वम्</title>
+				<feature></feature>
+				<page>०१६६-०१६८</page>
+				<allauthors>
+					<author type="" sal="">डाक्टर लड्डु</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="08" month="कार्तिकमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१६९-०१६९</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वामनभट्टबाणस्य देशावस्थितिज्ञानम्</title>
+				<feature></feature>
+				<page>०१७०-०१७१</page>
+				<allauthors>
+					<author type="" sal="">वु. व. वेम्बुरामलिङ्गशर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वात-पित्त-कफानां तत्त्वम्</title>
+				<feature></feature>
+				<page>०१७१-०१७६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. दुरैस्वाम्यय्यङ्गार्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वेणीसंहारकथासङ्ग्रहः</title>
+				<feature></feature>
+				<page>०१७७-०१८६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. व्e. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जैनमततत्त्वम्</title>
+				<feature></feature>
+				<page>०१८६-०१९२</page>
+				<allauthors>
+					<author type="" sal="">डाक्टर लड्डु</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="09" month="चापमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०१९३-०१९३</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>०१९४-०१९६</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीमानविक्रमसामूतिरिमहाराजः</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>०१९७-०२००</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वात-पित्त-कफानां तत्त्वम्</title>
+				<feature></feature>
+				<page>०२०१-०२०७</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. दुरैस्वाम्यय्यङ्गार्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जैनमततत्त्वम्</title>
+				<feature></feature>
+				<page>०२०७-०२०९</page>
+				<allauthors>
+					<author type="" sal="">डाक्टर लड्डु</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीबलचरितम्</title>
+				<feature></feature>
+				<page>०२१०-०२१६</page>
+				<allauthors>
+					<author type="" sal="">पि. शङ्करसुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="10" month="पौषमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२१७-०२१७</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>०२१८-०२२२</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दण्डिनः कालः</title>
+				<feature></feature>
+				<page>०२२२-०२२५</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतवर्षीयषष्ठवैद्यसम्मेलने स्वागतानुवाचनम्</title>
+				<feature></feature>
+				<page>०२२५-०२३३</page>
+				<allauthors>
+					<author type="" sal="">वैद्यरत्नयोगेन्द्रनाथविद्याभूषणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीबलचरितम्</title>
+				<feature></feature>
+				<page>०२३३-०२४०</page>
+				<allauthors>
+					<author type="" sal="">पि. शङ्करसुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="11" month="माघमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२४१-०२४१</page>
+				<allauthors>
+					<author type="" sal="">प्राचीनकवीनाम्</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>०२४२-०२४३</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिनववचस्पतिः</title>
+				<feature>पुस्तकसमालोचनाः</feature>
+				<page>०२४३-०२४५</page>
+				<allauthors>
+					<author type="" sal=""></author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गैर्वाणी कथमध्येया</title>
+				<feature></feature>
+				<page>०२४५-०२४८</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जवमनीषा</title>
+				<feature></feature>
+				<page>०२४९-०२५४</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. केशवशर्मा, गलगलि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नागरलिपिः</title>
+				<feature></feature>
+				<page>०२५४-०२६६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीबलचरितम्</title>
+				<feature></feature>
+				<page>०२६७-०२६८</page>
+				<allauthors>
+					<author type="" sal="">पि. शङ्करसुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="12" month="फाल्गुनमासः" year="आनन्दवर्ष" info="">
+			<entry>
+				<title>सुभाषितानि</title>
+				<feature>सुभाषितानि</feature>
+				<page>०२६९-०२६९</page>
+				<allauthors>
+					<author type="" sal="">उद्दण्डशास्त्रिणः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नामलिङ्गानुशासनम्</title>
+				<feature></feature>
+				<page>०२७०-०२७७</page>
+				<allauthors>
+					<author type="" sal="">संपादकः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहितीहृदयम्</title>
+				<feature></feature>
+				<page>०२७७-०२८१</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. वे. अनन्ताचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>तद्वदनांबुजम्</title>
+				<feature></feature>
+				<page>०२८१-०२८६</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. केशवशर्मा, गलगलि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्रीबलचरितम्</title>
+				<feature></feature>
+				<page>०२८६-०२८६</page>
+				<allauthors>
+					<author type="" sal="">पि. शङ्करसुब्रह्मण्यशास्त्री</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>महाभाष्यस्य ।। रमणीयानि वाक्यानि ।।</title>
+				<feature></feature>
+				<page>०२८७-०२९३</page>
+				<allauthors>
+					<author type="" sal="">रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वासवदत्ता</title>
+				<feature></feature>
+				<page>०२९४-०२९९</page>
+				<allauthors>
+					<author type="" sal="">पण्डित. रा. च. वि. कृष्णमाचार्यः</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अस्मदीयदेवार्चनम्</title>
+				<feature></feature>
+				<page>०२९९-०३००</page>
+				<allauthors>
+					<author type="" sal="">पण्डितकेशवरामशर्मा, गलगलि</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="Supplement" month="" year="" info="">
+			<entry>
+				<title>कमलिनीकलहंसम्</title>
+				<feature></feature>
+				<page>०००१-००८१</page>
+				<allauthors>
+					<author type="" sal="">राजचूडामणिदीक्षितस्य</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
 </SKTEL>
