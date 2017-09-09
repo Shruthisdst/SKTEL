@@ -90,7 +90,7 @@ if($num_rows > 0)
 }
 else
 {
-	echo '<span class="sml">Sorry! No author names were found to begin with the letter \'' . $letter . '\' in Tattvaloka</span>';
+	echo '<span class="sml">Sorry! No author names were found to begin with the letter \'' . $letter . '\' in Sahrudaya Journal</span>';
 }
 
 if($result){$result->free();}

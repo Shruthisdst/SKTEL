@@ -472,12 +472,19 @@ Main components
 }
 .cd-header #cd-logo {
   float: left;
-  margin: 50px 0 0 5%;
+  margin: 13px 0 0 5%;
 }
 .cd-header #cd-logo img {
   display: block;
-  height: 60px;
+  height: 80px;
   float: left;
+}
+.cd-header #cd-logo span {
+  display: inline-block;
+  padding: 0.7em 1em;
+  border-top: none;
+  color: #000;
+  font-size: 20px;
 }
 
 @media only screen and (min-width: 930px) {

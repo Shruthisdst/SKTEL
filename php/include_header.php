@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- jQuery UI style -->
+	<link rel="shortcut icon" type="image/ico" href="img/logo.gif" />
 
 	<link href="css/font-awesome-4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" /> <!-- Icon gallery (fontAwesome) style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -21,6 +22,7 @@
 		<div id="cd-logo">
 			<a href="../index.html#home">
 				<img src="img/logo.gif" alt="Logo">
+				<span>सहृदया &nbsp;-<span class="sml">The Sanskrit Journal</span></span>
 			</a>
 		</div>
 		<nav class="cd-main-nav">
@@ -41,7 +43,7 @@
 					<li><a href="articles.php"><i class="fa fa-files-o"></i> लेखाः</a></li>
 					<li><a href="authors.php"><i class="fa fa-users"></i> लेखकाः</a></li>
 					<li><a href="features.php"><i class="fa fa-tags"></i> प्रधानविभागाः</a></li>
-					<li><a href="search.php"><i class="fa fa-search"></i> अन्वेषणम्</a></li>
+					<li><a href="#"><i class="fa fa-search"></i> अन्वेषणम्</a></li>
 				</ul>
 			</nav> <!-- cd-sec-main-nav -->
 		</div>
