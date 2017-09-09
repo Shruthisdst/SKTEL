@@ -2,7 +2,7 @@
 <main class="cd-main-content">
 		<div class="cd-scrolling-bg cd-color-2">
 			<div class="cd-container">
-				<h1 class="clr1">Archive &gt; Authors</h1>
+				<h1 class="clr1">सङ्ग्रहः &gt; लेखकाः</h1>
 					<div class="alphabet gapBelowSmall gapAboveSmall">
 					<span class="letter"><a href="authors.php?letter=अ">अ</a></span>
 					<span class="letter"><a href="authors.php?letter=आ">आ</a></span>

@@ -10,7 +10,7 @@ require_once("common.php");
 if(isset($_GET['authid'])){$authid = $_GET['authid'];}else{$authid = '';}
 if(isset($_GET['author'])){$authorname = $_GET['author'];}else{$authorname = '';}
 
-echo '<h1 class="clr1 gapBelowSmall">Archive &gt; Authors &gt; ' . $authorname . '</h1>';
+echo '<h1 class="clr1 gapBelowSmall">सङ्ग्रहः &gt; लेखकाः &gt; ' . $authorname . '</h1>';
 
 $authorname = entityReferenceReplace($authorname);
 
