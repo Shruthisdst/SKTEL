@@ -15,7 +15,7 @@
 	<script src="js/jquery-2.1.1.js"></script>
 	<script type="text/javascript" src="js/jquery-ui.js"></script>
   	
-	<title>Sahrudaya - Sanskrit Journal</title>
+	<title>Sahrudaya - The Sanskrit Journal</title>
 </head>
 <body>
 	<header class="cd-header">
